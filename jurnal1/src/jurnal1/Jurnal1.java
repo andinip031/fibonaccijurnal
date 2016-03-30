@@ -18,6 +18,8 @@ public class Jurnal1 {
             int jum = a + b + c;
             System.out.print(jum+" ");
             hasil=a+b;
+            kll;kl;
+            kk
          }
     }
 }
